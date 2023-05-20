@@ -1,5 +1,5 @@
 ---
-description: This is a Cheatsheet for eJPT exam + course.
+description: 'This is a Cheatsheet for eJPT exam + course. [Source: githubmemory.com]'
 ---
 
 # eJPT-Cheatsheet
@@ -169,4 +169,4 @@ wmic logicaldisk get Caption,Description,providername
 
 
 
-Source: githubmemory.com
+{% embed url="https://kentosec.com/2019/08/04/how-to-pass-the-ejpt/" %}
